@@ -72,38 +72,9 @@ python main.py
 
 ---
 
-## 🖼️ Screenshots
-| Main Menu  | Motorcycle Details |
-|------------|--------------------|
-| ![Main Menu](https://motortrade.com.ph/wp-content/uploads/2022/10/1-1.jpg) | ![Honda Rebel 1100](https://motortrade.com.ph/wp-content/uploads/2020/07/REBEL-1.jpg) |
-
----
-
-## 📝 Future Improvements
-- 🔹 Add more motorcycle models  
-- 🔹 Store data in a database (SQLite/PostgreSQL)  
-- 🔹 Implement user authentication  
-
----
-
-## 👨‍💻 Author
-👤 **Rom Noel**  
-📌 **GitHub:** [romnoelp](https://github.com/romnoelp)  
-
----
 
 ## 📜 License
 This project is **open-source** and available under the **MIT License**.  
 
 ---
 
-### 🔥 Now, Add This README to Your Project!
-1️⃣ **Move the `README.md` file into your project folder**  
-2️⃣ Commit and push it:
-```bash
-git add README.md
-git commit -m "Added project README"
-git push origin main
-```
-
-🚀 **Your GitHub repository will now display a full README!** Let me know if you need any edits! 🔥
