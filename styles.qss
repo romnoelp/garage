@@ -1,0 +1,52 @@
+/* General Window Style */
+QWidget {
+    background-color: #121212;
+}
+
+/* Buttons */
+QPushButton {
+    background-color: #1E88E5;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 14px;
+}
+QPushButton:hover {
+    background-color: #1565C0;
+}
+QPushButton:pressed {
+    background-color: #0D47A1;
+}
+
+/* Back Button */
+QPushButton#back_button {
+    background-color: #E53935;
+    color: white;
+    border-radius: 8px;
+    padding: 12px;
+    font-size: 14px;
+}
+QPushButton#back_button:hover {
+    background-color: #D32F2F;
+}
+
+/* Details Frame */
+QFrame#detail_frame {
+    background-color: #222;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+/* Image Container */
+QFrame#image_container {
+    background-color: #333;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+/* Image */
+QLabel#image_label {
+    border-radius: 20px;
+    border: 3px solid #BB86FC;
+    padding: 5px;
+}
